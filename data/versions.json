@@ -1,0 +1,1241 @@
+{
+ "country": "RU-ARK",
+ "acts": [
+  {
+   "slug": "zakony-2015",
+   "short": "Законы 2015",
+   "title": "Arkhangelsk Oblast: catalogue of the laws published in 2015 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region29",
+   "versions": [
+    {
+     "from": "2015-02-25",
+     "units": 11,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "26bb7c6cffebe75db7a6d10ec40ebf5720542d2b527fc66fd1c366330c8bc22d"
+    },
+    {
+     "from": "2015-02-26",
+     "units": 15,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "903a6af177ebe339afc240ac897b84d8ba1983be73f1eda718eaa74802060d6c"
+    },
+    {
+     "from": "2015-03-02",
+     "units": 16,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "cde3f20cdf6bc1d2d4b69a54326627f34a9fe3fcfd20f4d01992a468af25da6b"
+    },
+    {
+     "from": "2015-04-03",
+     "units": 17,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "69cb84855d3c20eaea42da1923a01e1f72e464d57fa184e36ae9d2018f56e181"
+    },
+    {
+     "from": "2015-04-07",
+     "units": 26,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "60cb847df110894c5fca01e51c53a26f5c6d635133664d9727f8aaec18c57af7"
+    },
+    {
+     "from": "2015-04-30",
+     "units": 41,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "6d1c17c9c29ff8ce60e180d8835b870b53cec6892a56d99f3bb6c591fc9cfb1a"
+    },
+    {
+     "from": "2015-05-29",
+     "units": 43,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "bcce070b2f0fb891d60272400572d3ce74a56906b65f6a4c7900514e6ada4b08"
+    },
+    {
+     "from": "2015-06-03",
+     "units": 55,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "9a2c11687d21c387b5f0d4b53cafebb7fa179e3bad0723fe04adf9a329744c32"
+    },
+    {
+     "from": "2015-06-11",
+     "units": 56,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "fd0d9c769b09329d852a02cc6a4564ddc9958ec06c03bd42380ad30ee2cc13c2"
+    },
+    {
+     "from": "2015-06-30",
+     "units": 69,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "2c2f6592cacfa57c7bc9016cabb5678c4faa1a895df9eaf013ac4d9ee3efbe77"
+    },
+    {
+     "from": "2015-07-01",
+     "units": 70,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "810a9d02060b423718e56b2e2ae98f27d2aed8198381ae8dbc51424d6ee8cbc8"
+    },
+    {
+     "from": "2015-07-02",
+     "units": 71,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "49c652149fab5f6cbe462715b386c2fd59bbb687d91a2d9cf8f2c9d8cc3e699c"
+    },
+    {
+     "from": "2015-10-01",
+     "units": 96,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "ffa03526198886c4b09c19581812ae330cff51fe313c137b0e1d3612862f5fa5"
+    },
+    {
+     "from": "2015-10-27",
+     "units": 115,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "5f6812ec606045d19f51af02e80740bc6a38084e1a0f68da16cd09b7c13c6c31"
+    },
+    {
+     "from": "2015-11-16",
+     "units": 117,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "0b8cf8acf87c29ab74532486aed0a5b81cf23d232bfdb2120bc194a16a2a5e47"
+    },
+    {
+     "from": "2015-11-26",
+     "units": 118,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "360bf3d79bca880a6fef97a43ee9d1bfb04c31472b4af72fe2f2187683e9adc0"
+    },
+    {
+     "from": "2015-11-27",
+     "units": 119,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "c39bd0f673801fd5faa3b6c708319c32738fd346d0203ca2887041ad9a27383f"
+    },
+    {
+     "from": "2015-12-01",
+     "units": 134,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "92a765d8739a87c55624bebe222c625cd3dc9600ed4eca4efcb4bcbc7cdc93f7"
+    },
+    {
+     "from": "2015-12-18",
+     "units": 136,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "d094bb153ab9624cd4c1c590cd9f77574b82a788fc5ea5f528fc817962275acb"
+    },
+    {
+     "from": "2015-12-21",
+     "units": 149,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "afc8f32d01c574ab6d7c3667ef1ccfbd863a114c3dfb28aa495c9e67d7984fb5"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2016",
+   "short": "Законы 2016",
+   "title": "Arkhangelsk Oblast: catalogue of the laws published in 2016 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region29",
+   "versions": [
+    {
+     "from": "2016-02-25",
+     "units": 6,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "9fdc6770c4c3f1829c9c7c56c32771b52ef61b68e33e2be66961633a3c4ae035"
+    },
+    {
+     "from": "2016-03-24",
+     "units": 7,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "bd9b7d0a8e54925a3a9c97f3f98b7b70c7a6b50e5b6a9c4ba048bb072563786f"
+    },
+    {
+     "from": "2016-03-28",
+     "units": 29,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "69e1e0ef4e23f107350528689922076245b83b5bff9099d5818eefbf5618ad52"
+    },
+    {
+     "from": "2016-04-25",
+     "units": 40,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "2859f4c8cdd21ec763d31c2187d3a7c24e48f17fe0ec94da9ed25ad05ba1abf0"
+    },
+    {
+     "from": "2016-06-01",
+     "units": 52,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "b89792645a5608195c1fc01c77e0d253dc0dc76162862debe231d3f11930f5e1"
+    },
+    {
+     "from": "2016-07-05",
+     "units": 67,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "b5e9bad62454e278e8bb034d8856b33ccbb8ea0d216d9c49eec78b7233289f3d"
+    },
+    {
+     "from": "2016-09-22",
+     "units": 68,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "f9c897a149552de09288d8d55895947c409bc2642ddea95c3c567c7cf96a4cb9"
+    },
+    {
+     "from": "2016-09-23",
+     "units": 77,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "87323d1950344b74707781a2b3cd24377878fcdc72bcd25150a460ab97b9e722"
+    },
+    {
+     "from": "2016-10-31",
+     "units": 98,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "81d667326359bfa20ac13fc45cadb618ae9d875e2f180816fb72df963476ac94"
+    },
+    {
+     "from": "2016-11-30",
+     "units": 99,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "84b37768c748fa3e7d2d19b1096216016f23bc4146c1b139e85d79a258348de5"
+    },
+    {
+     "from": "2016-12-06",
+     "units": 111,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "57c1d872e5b2cf73b4b3c06a2f966811d67a34043bde5a7b21b3712ae31ea540"
+    },
+    {
+     "from": "2016-12-21",
+     "units": 112,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "0d13e7771ddf7f167bc553419b6f16b58d892339d03e11d209adfeca881a44bd"
+    },
+    {
+     "from": "2016-12-22",
+     "units": 113,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "0cd932f7ee4c4a2598be3631802ced5370b61f9465856a1e1b99956b266dcf82"
+    },
+    {
+     "from": "2016-12-26",
+     "units": 125,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "88cac36bbccb6889dac73ff886e885816e56b8c279f6cc4ebded5529d63e80b6"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2017",
+   "short": "Законы 2017",
+   "title": "Arkhangelsk Oblast: catalogue of the laws published in 2017 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region29",
+   "versions": [
+    {
+     "from": "2017-02-16",
+     "units": 1,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "d96f804315ba5f183b5149c1b633f47a13dc13fd35431d61bf0cb269d9cdc2a7"
+    },
+    {
+     "from": "2017-02-17",
+     "units": 2,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "3b82a9199ad20e032714790a32e81366c6b98304b4892d26eb369ebb81513003"
+    },
+    {
+     "from": "2017-03-24",
+     "units": 9,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "9bf30ffea8f9bd8f77ea1751f04c64abcd5e875d222425a8276611a9b2cdc0b6"
+    },
+    {
+     "from": "2017-04-24",
+     "units": 17,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "c6c80102f1b4e23d7245f7eebd1fbcc88fd4739145fb1fc694a8be0433482cfd"
+    },
+    {
+     "from": "2017-06-06",
+     "units": 24,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "303fb79bde241d41bd3198b2a732b537e0ef4438be24f21c0c9bcbcb5e9ab8d8"
+    },
+    {
+     "from": "2017-07-11",
+     "units": 32,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "a8dd14bbb22f4ad51b9244482577f3629ae5b347de03038880c79df65290d0e0"
+    },
+    {
+     "from": "2017-10-09",
+     "units": 45,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "568fb22e595415a049332fe2c4229b5f9b2013274410c22ea05b3336c2ea717f"
+    },
+    {
+     "from": "2017-11-08",
+     "units": 58,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "65074fc695cfdecc4b4dbc4a0f0d16aade61a4b5a33a35df2558d47f5a889b13"
+    },
+    {
+     "from": "2017-11-21",
+     "units": 67,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "ce15f37170465f97b95727e176a209f6d296e2f9bdbf548e033b4c355fd455b7"
+    },
+    {
+     "from": "2017-12-15",
+     "units": 68,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "e6a3862a963647a85a9f6591862f36391f30affbd22c53e0a1912420dbdd9ebb"
+    },
+    {
+     "from": "2017-12-20",
+     "units": 69,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "17e090adede91fa5af3d6cd29c5d02d6ac199b5dc591c0f6889ca4756075a902"
+    },
+    {
+     "from": "2017-12-21",
+     "units": 79,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "b4f9c072baca937edf819e98a8fe1814f3c90a4ea0a3b749866890c050d183f1"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2018",
+   "short": "Законы 2018",
+   "title": "Arkhangelsk Oblast: catalogue of the laws published in 2018 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region29",
+   "versions": [
+    {
+     "from": "2018-02-15",
+     "units": 1,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "9d3db0fb4af198da657b4d1a2be29ac4b534162495bfde73b27536491562a24a"
+    },
+    {
+     "from": "2018-02-20",
+     "units": 16,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "591cede8ce276d9a6ee9ac08356ed8cd1955b975fd3852bd5723740197a10b4a"
+    },
+    {
+     "from": "2018-04-02",
+     "units": 17,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "36218e47a002f7490965814e28bedbd8db17d4a8741efbac54e9d155ffa0b2e1"
+    },
+    {
+     "from": "2018-04-03",
+     "units": 22,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "35cc7f14c8e4543bbbd0b1b74279f40470a7814145e5af5d7a3a882b166737e0"
+    },
+    {
+     "from": "2018-04-28",
+     "units": 23,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "f45ac807d52e98027fb7f4edff4254d187b26b1d62733bd3fe4ebafcc9f43dd7"
+    },
+    {
+     "from": "2018-05-03",
+     "units": 34,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "a9c7fde576932125b4e86f3039a4a12ae3bd013ff8fbfd4cd000d2df01756f01"
+    },
+    {
+     "from": "2018-05-04",
+     "units": 41,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "610928fc236e4e1f8062591d4450a9212f923dcf29872be978bf73a540acfed0"
+    },
+    {
+     "from": "2018-06-05",
+     "units": 42,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "1aa021c85df0af3e271420160a72eebfde57308e829ab5aaf720a0e60fe22d0f"
+    },
+    {
+     "from": "2018-06-08",
+     "units": 50,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "15018cc3a9fb9d929fdc1439fce66a7bc31c16ec841359220f2f93617f9d1f52"
+    },
+    {
+     "from": "2018-06-09",
+     "units": 53,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "a9dad31b80d47bd66522f0ea40307dcaedbdc6d78845a87576834a59826ca383"
+    },
+    {
+     "from": "2018-06-27",
+     "units": 54,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "8039675a6c8607968f9976e8f5d7acff364571aea4a726c7efdb5f49a6ebd71a"
+    },
+    {
+     "from": "2018-07-03",
+     "units": 72,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "724c51c9074a96fa08c181c8ae215b27bce78dadbc81fa5e840564d42d721d52"
+    },
+    {
+     "from": "2018-07-04",
+     "units": 73,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "a910f56c0e32b9b303db5e71f203cf46f2101fd1c063e8dc387c015c1ca6cef1"
+    },
+    {
+     "from": "2018-09-25",
+     "units": 74,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "e429d2ad6d96e6c00589a644f9d391f311cc18e8fb62c36b544794fe13f7f40f"
+    },
+    {
+     "from": "2018-10-30",
+     "units": 92,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "0faac20bdea145b18cf5a14af763164d16f89d414760d7e204e03563e5c9b9e6"
+    },
+    {
+     "from": "2018-11-16",
+     "units": 93,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "def27abfc0e72bd8e328c41853ddab788090ba0904e285ec9cd920634fb2d737"
+    },
+    {
+     "from": "2018-11-21",
+     "units": 106,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "8cec2dd9cfe1e98b722dcf6eee39b8d49919dad8ccaac3d71efb5a27880738ed"
+    },
+    {
+     "from": "2018-12-17",
+     "units": 107,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "294b4d6b9adf0b71d380edd3a30b412edd511b606fc4c6e79b772ebbcac99bdc"
+    },
+    {
+     "from": "2018-12-18",
+     "units": 108,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "102a90eb6b20a69d62a83150bde06a6b8eae60b0c5d34deee24fe1d775380e0f"
+    },
+    {
+     "from": "2018-12-21",
+     "units": 128,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "63aebc599b7d3ff942ecc8aa1ea1bf4f4371f716da640d3cb7ad1d5d55d73cb4"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2019",
+   "short": "Законы 2019",
+   "title": "Arkhangelsk Oblast: catalogue of the laws published in 2019 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region29",
+   "versions": [
+    {
+     "from": "2019-02-14",
+     "units": 1,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "8f650b1d062026d42d071dbe920ee66798d676b73ba636a9f388a2211d6fce2a"
+    },
+    {
+     "from": "2019-02-19",
+     "units": 6,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "c1ee3ba36ed9234ade00a5e26d1422b1f8739b80ef15dc0b2b07cf73688ed5ba"
+    },
+    {
+     "from": "2019-02-20",
+     "units": 8,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "f544b5800012a4aa63d1990c786f0f5697d973572461dd9e54272973a1a41015"
+    },
+    {
+     "from": "2019-04-03",
+     "units": 16,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "da7a7a4f210dbaf88685715427699df64792ee54162c85bfaeefa9e12e2bf6b7"
+    },
+    {
+     "from": "2019-04-04",
+     "units": 17,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "11d0f395d89c48dc5b5e452cafcc8a75a7594305d3a6e01ff2dc4e0c2c729741"
+    },
+    {
+     "from": "2019-05-07",
+     "units": 37,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "911c02df72a359023dcdb24d573ce2c0c049266dedfe2004af10e75291a831fe"
+    },
+    {
+     "from": "2019-06-05",
+     "units": 45,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "8c405b7d0bcba12780675650403188fef97b50da76bf0b838db6972937421965"
+    },
+    {
+     "from": "2019-06-06",
+     "units": 49,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "e9d484fbf358383ef382808c62756590982739ae58cfaa28d27f5def95eb75ba"
+    },
+    {
+     "from": "2019-07-03",
+     "units": 51,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "93b6c54913ad1a969ca426f06403928c321a17155c8dab4ff63fce866bcb2fef"
+    },
+    {
+     "from": "2019-07-04",
+     "units": 68,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "5d734bf747aff4b8728a7018d29bc4592e1bcd9d75b0dba82980fb51369c31a3"
+    },
+    {
+     "from": "2019-07-05",
+     "units": 69,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "e392daa66bb5e576f47ef113b8737ed5a21f8e9e8428fb7c79f7e6389281b19f"
+    },
+    {
+     "from": "2019-09-26",
+     "units": 70,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "055eb276b88a46f1b1eed36021478f8ae78735e3485d0041f9189316467acc3c"
+    },
+    {
+     "from": "2019-10-02",
+     "units": 78,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "61e1c201de9a9c41b4f660f8e173f2d2d0091e740785d4d22c614d4963498ed4"
+    },
+    {
+     "from": "2019-10-03",
+     "units": 86,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "1a1dae2c1ca65e59c973d9a77bbee83bfeb3930523b9733a18b744558063a573"
+    },
+    {
+     "from": "2019-10-07",
+     "units": 91,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "110af758c7a647b1be9546d3cdf08aa95fb47b7d8354998602e7ba553796d8d2"
+    },
+    {
+     "from": "2019-10-29",
+     "units": 97,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "377fe3c34bfe7b926a9c8b6e92781ab469d5700e5a355d87f5fbe22d2022aeee"
+    },
+    {
+     "from": "2019-10-30",
+     "units": 106,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "1511e7624e4ebf7ceb32b9faed39824df8aec8067f04d6c27a773da585b67346"
+    },
+    {
+     "from": "2019-10-31",
+     "units": 107,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "f84cb9d4a44262d3088325278c13f753c06fc5082f07b124784bd0bf60d21975"
+    },
+    {
+     "from": "2019-11-01",
+     "units": 114,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "55663f65192196073905bc64b579c0f0631448847bebe4c4b3170cdee169b827"
+    },
+    {
+     "from": "2019-11-20",
+     "units": 132,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "b157e3a9c0d82c78767f4fd2d2a0cd315c0dbcebc4b77cd32d3ca3502d6aaecf"
+    },
+    {
+     "from": "2019-12-16",
+     "units": 134,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "092a1d67a0b88f11978e753cc57806b4c8f1c9556a773346fd7aeb21cf5a3510"
+    },
+    {
+     "from": "2019-12-18",
+     "units": 154,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "4004d85491171356c1e0992ed1da8dbd05877761145ad020ee5ec175aae29905"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2020",
+   "short": "Законы 2020",
+   "title": "Arkhangelsk Oblast: catalogue of the laws published in 2020 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region29",
+   "versions": [
+    {
+     "from": "2020-02-17",
+     "units": 12,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "94d6a0015ea0426549c270c64c18c963ea03b82aae36e1dd05e970748ede5892"
+    },
+    {
+     "from": "2020-03-30",
+     "units": 13,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "30dee5d204d534adaf3dd9870a2d2a5ff1534c3ef3f3167bc6e92db1d3b298cc"
+    },
+    {
+     "from": "2020-03-31",
+     "units": 24,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "c79a59643472c03e5f45efb37ecabd8a0b6c3c58cf0f17895bc4057afc89433a"
+    },
+    {
+     "from": "2020-04-28",
+     "units": 52,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "d1cf2b4d9a4f0a0207b75de5c351754c952465e4b6690fdafc5d15fcfd910bac"
+    },
+    {
+     "from": "2020-05-29",
+     "units": 61,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "45e8a5a2fe7680278d79cc9a62aca86ed5f72b6638681ce395084a80fdcccf4e"
+    },
+    {
+     "from": "2020-06-05",
+     "units": 67,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "bc6107caef1380e5e7a7f62a8e094f0b8ceeff23460509d53d13bedf68ff10ba"
+    },
+    {
+     "from": "2020-06-08",
+     "units": 69,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "7d125063ae5961d52b6cb75f7eb41ec5745338e9ebf092d19cc6bee2dc6b6e3d"
+    },
+    {
+     "from": "2020-07-02",
+     "units": 84,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "5b69f87a0f0a96485faa3c4fcfcf0e493783613d26444845850fcc8ccbc0bab6"
+    },
+    {
+     "from": "2020-07-03",
+     "units": 85,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "19b1acb0d226b3ba1a1893f61c9efd4a49e983eb8eafd313edbe1ec2dcff6e90"
+    },
+    {
+     "from": "2020-09-29",
+     "units": 101,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "81b11e575cfa6d5fd32fccba4a9465f6d352a166492120152fb321cfbbb92108"
+    },
+    {
+     "from": "2020-09-30",
+     "units": 102,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "3ec12b68e6494baf4c2cefa80356ca42ee67024ed829f352cd52f13d64e0ec39"
+    },
+    {
+     "from": "2020-11-03",
+     "units": 127,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "1b3caf59d40553403bd69867e21646552bbefa1db7b78a2f3b5118f7c83695e5"
+    },
+    {
+     "from": "2020-11-26",
+     "units": 142,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "5675775f3307eef3ce0bbf5bc03308a922f2c20d82b2418257d383b7b484ce49"
+    },
+    {
+     "from": "2020-12-21",
+     "units": 145,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "4aba438f10c6ce08213a6281c5fdb533a5c2edf00e29c9729a0114b5131f8228"
+    },
+    {
+     "from": "2020-12-22",
+     "units": 163,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "4406ce79bed7e6ea974bf05dce62e7f2d0c78ab514934a1637c91af3eba163ac"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2021",
+   "short": "Законы 2021",
+   "title": "Arkhangelsk Oblast: catalogue of the laws published in 2021 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region29",
+   "versions": [
+    {
+     "from": "2021-02-18",
+     "units": 10,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "a623bcd1efaaacc2237d39dea532f082142f8440523f92e4f517a57a0e871ade"
+    },
+    {
+     "from": "2021-03-31",
+     "units": 25,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "ac4fb7fb435559d47b25a0305a6a3b593b98b67e74912294a2bdac17a618e8dd"
+    },
+    {
+     "from": "2021-04-27",
+     "units": 41,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "e286e56896ee131204cfa0a58cda0de395c01a73396a49d7ab678b1869412110"
+    },
+    {
+     "from": "2021-06-02",
+     "units": 51,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "f8403edd6dc6f3e06b3803e8a8ba97f642731db988189594146b9f630a6f21fc"
+    },
+    {
+     "from": "2021-06-24",
+     "units": 54,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "2acc1ba52633129b5033d440539b05c913f29488de15a24f9ac7a955d6806a6a"
+    },
+    {
+     "from": "2021-06-29",
+     "units": 74,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "32cf55b01da50710989792c9e8a9daf5eb81bf82b39f8a6d6cc7053d79a5d2f4"
+    },
+    {
+     "from": "2021-10-07",
+     "units": 94,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "3b4d92dffaa510ab81f622485dd030ae55a11a86a05e1f8754eb624e9c435c97"
+    },
+    {
+     "from": "2021-10-28",
+     "units": 95,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "eab901774c15bbffd1052cec6e8b747312aeceb08f4a318a1185eb12364fa308"
+    },
+    {
+     "from": "2021-11-02",
+     "units": 119,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "031351079b06c2bf777009cd4d65f0972c8f9cf2c497f540fc90eaefe53a5daa"
+    },
+    {
+     "from": "2021-11-03",
+     "units": 120,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "ae7ff1509b5cbfcb0aacdea59dcbbf73a8f0d4657b87676c624a71736493bbbc"
+    },
+    {
+     "from": "2021-12-09",
+     "units": 143,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "b6b6bdd1e5bbbb195f37e4abb55a4ddc8fa72c4b7a30cd61201f92766c326edf"
+    },
+    {
+     "from": "2021-12-10",
+     "units": 146,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "47cd41f209e8e6b5a5d0a7e6fc61fce69277bc69d119bff78aaecc77fc6da2f6"
+    },
+    {
+     "from": "2021-12-22",
+     "units": 149,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "2e3ba3a7c686fe881d25a050ddd914ba552992f0f2c151f3fc0c6a614a3bd101"
+    },
+    {
+     "from": "2021-12-23",
+     "units": 150,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "bdf0159fbddfddbd4afaf0f77bd3dee3ee731ad9182df1939d6a9ff31dc5f141"
+    },
+    {
+     "from": "2021-12-24",
+     "units": 155,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "cc64a847e9161c0068154613da5ed7238ffcbf952bee6b4e3a4de9b9fd23882d"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2022",
+   "short": "Законы 2022",
+   "title": "Arkhangelsk Oblast: catalogue of the laws published in 2022 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region29",
+   "versions": [
+    {
+     "from": "2022-02-22",
+     "units": 7,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "c556c02c199b82e25293aafadd7e2ea5fae6a46e9868fbedd016191ca667e1df"
+    },
+    {
+     "from": "2022-03-23",
+     "units": 8,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "41015d8897354c19d37fda90a7af02c14074fd6d0b84eb4f7a8d73045366cda4"
+    },
+    {
+     "from": "2022-03-29",
+     "units": 16,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "3c49977d40b4c38b40ba42596ca2a6f0b4bc3478bc7591bba233a29b542ba321"
+    },
+    {
+     "from": "2022-04-29",
+     "units": 28,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "bdda29dd32475e65459509d15653cdc6de71dfe1d0afb6fcacf403f62dd797ee"
+    },
+    {
+     "from": "2022-05-31",
+     "units": 51,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "23a8f3789ca3257ea74ec236382e31e4cabb09fe3b3f0297075426cb957a9bf2"
+    },
+    {
+     "from": "2022-06-30",
+     "units": 65,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "1576f7a58339a9efc4d768965d7163b15188035ed40193912d4b30c26d652c89"
+    },
+    {
+     "from": "2022-09-23",
+     "units": 66,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "3c07b1d6ca7a32f59da25e0cd9c484f914e844716e3be01e4873ea63bfba8b74"
+    },
+    {
+     "from": "2022-09-26",
+     "units": 72,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "760e0ed2f6d0aa5a09d12a87887e9133972cc08f13b04c3315c3090bae45cf5f"
+    },
+    {
+     "from": "2022-09-27",
+     "units": 88,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "27510d45753fcd1384fc554bf76a3538cd4600249619ce2431c5386dcdad5d14"
+    },
+    {
+     "from": "2022-09-28",
+     "units": 89,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "c558e4ff311008d42983d8c939979fed41a1e1c408c917a3bc2fe80b3b207975"
+    },
+    {
+     "from": "2022-10-27",
+     "units": 90,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "33bec460a1f67a315865587d0be91e34b0aee383c56a1e9634e6a7d0e6c796f3"
+    },
+    {
+     "from": "2022-11-01",
+     "units": 108,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "710caba09093adad77c47231e182fc208a706ee455211ff30ce11ea06756f6f9"
+    },
+    {
+     "from": "2022-11-23",
+     "units": 115,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "6e372f4b09c34ffcf0fa2f4ff5fb0ad0384e6e95e92d33ff0862e83f2e9c1459"
+    },
+    {
+     "from": "2022-11-24",
+     "units": 122,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "90ab481eec41593a4fcec9599a8d9ea793be6395fb86ff5166abee0f6057a600"
+    },
+    {
+     "from": "2022-12-20",
+     "units": 126,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "87c3f07bfb6e4394797325857d6b09b8b8c932b21e697afb955001102590466d"
+    },
+    {
+     "from": "2022-12-21",
+     "units": 137,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "111527dea3a982acc162f3908365dbea94bc84192e7152123fdcee84e20bd87d"
+    },
+    {
+     "from": "2022-12-22",
+     "units": 140,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "f18aed8cb029ddbcacee698a7c28123407f6b9d9a1f5b4559015638ed79321d1"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2023",
+   "short": "Законы 2023",
+   "title": "Arkhangelsk Oblast: catalogue of the laws published in 2023 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region29",
+   "versions": [
+    {
+     "from": "2023-02-20",
+     "units": 5,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "d8d91affb19db0bd2da666a2ea2faf6214b68fe72b91a79ea2d4b14eebfed6ef"
+    },
+    {
+     "from": "2023-02-21",
+     "units": 7,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "fb75d7e9c425d916a6fcfba6beb8c38dfb112faf4938c4f12edc6988c7eedac7"
+    },
+    {
+     "from": "2023-03-24",
+     "units": 8,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "45355ba1e6e72ae7a35a0fb735c514399da06f91d13455cf5c3311093c64c715"
+    },
+    {
+     "from": "2023-03-30",
+     "units": 20,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "2e887c3f645e8cca761e716cbe31672e424bd9b3e6cd3794eea66a74a52173dc"
+    },
+    {
+     "from": "2023-05-03",
+     "units": 39,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "127a513329a10fd33e3f1a416203ce864b722f94bf517c65c4c6634db00cffc1"
+    },
+    {
+     "from": "2023-06-01",
+     "units": 48,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "ca35bdb31c213e4a1944fd0f6434797b5fcc296055258e2c741f878530d39d55"
+    },
+    {
+     "from": "2023-06-02",
+     "units": 50,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "1b64828b13e9a8f740045a6993beb3e3978f28b8c80ba347d39a5ea088cd6027"
+    },
+    {
+     "from": "2023-06-09",
+     "units": 52,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "c927479978d62454e528eb4acdf05417e8bfaa997bf283dcabe459405f85ebf9"
+    },
+    {
+     "from": "2023-07-04",
+     "units": 75,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "b7d8035c7f3d36bb4c5175ad1faeee5f9d94f5b524d1f8cf962afa0bc4cdd6bb"
+    },
+    {
+     "from": "2023-07-05",
+     "units": 82,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "3cc9603ee22edc7b69a1f7e5f744e7379492b7317707d5e2f2e7b5767030bf8e"
+    },
+    {
+     "from": "2023-09-22",
+     "units": 83,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "898ad702ba0c1f5b4f63bafe3cd5dcc1c705f068a30d4c058e10c74838eaed4f"
+    },
+    {
+     "from": "2023-10-23",
+     "units": 89,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "21b5e989c602853c53bfcceaa034dbd9b8362f7ea62d299ba3d7870e3b6fc123"
+    },
+    {
+     "from": "2023-11-21",
+     "units": 119,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "f92125be3a03f3c580139ec87df96bf6f29ac7c84e2d723d52f0ffd46a5d4c3f"
+    },
+    {
+     "from": "2023-12-19",
+     "units": 122,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "7740708395825bc28b43e7b8fd293745db7bc8830f3fc1f769c982e3bf71b773"
+    },
+    {
+     "from": "2023-12-26",
+     "units": 136,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "72cef8e8b26d7ee99b832cb3e7ffd530512a9afd89cf5f69f99470810f22a046"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2024",
+   "short": "Законы 2024",
+   "title": "Arkhangelsk Oblast: catalogue of the laws published in 2024 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region29",
+   "versions": [
+    {
+     "from": "2024-02-20",
+     "units": 5,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "68ed9f7286585c393f81378ce42434105cea5ad9838f401d9dec3ecd113d914f"
+    },
+    {
+     "from": "2024-03-21",
+     "units": 6,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "4139dd1e7bcbcf3b3dd2a503d73169ac53b671f732086e79e2151fce9d9a894e"
+    },
+    {
+     "from": "2024-04-02",
+     "units": 20,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "97451b598cf3dd51327eb3727f6d73875fe66db51439b384bb5e4f5d726087f8"
+    },
+    {
+     "from": "2024-04-27",
+     "units": 21,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "7932b43e3dc58049bc1863ce674606d6c3b447dd1d82429131af344d25684f30"
+    },
+    {
+     "from": "2024-05-02",
+     "units": 36,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "802506119c099d5e438d9bff2024d00019998eba65f48086d9e3e0836657f3f5"
+    },
+    {
+     "from": "2024-05-03",
+     "units": 37,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "47c9e7f26b5c35bf47a467d0a88694d0f5f8a7bb8de95c156e14ebcde8a9ebfe"
+    },
+    {
+     "from": "2024-05-31",
+     "units": 46,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "91474512f8805eda984935c256f818b7c8a070aaafec8e5982c34cfe9deb068b"
+    },
+    {
+     "from": "2024-07-01",
+     "units": 47,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "d3e5ad55ede7cf5b0a783b8d64dc591378d24e072da7f8a0b41b0ef632fc1b61"
+    },
+    {
+     "from": "2024-07-05",
+     "units": 67,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "2fec078bd7dd980fc887fd078e806cbab38a12d17ee54de2fc00bd0ad04f242d"
+    },
+    {
+     "from": "2024-07-08",
+     "units": 70,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "f631da4abb53e840e10c9c5f590d9deb543ff10d96535a4136d58d772d1070d6"
+    },
+    {
+     "from": "2024-09-26",
+     "units": 72,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "143d015758f018b79f6b1188d5401ad9a01a57c0e046e54f3d07fd6f997ff5d8"
+    },
+    {
+     "from": "2024-10-03",
+     "units": 90,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "7b37802721726d492a2cb2bca90069eb41d2e802c5cac9d967680d54516e985b"
+    },
+    {
+     "from": "2024-10-04",
+     "units": 91,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "cf86ba68b56394e612a8ef774a378ef8737399481073557fb1c0a3c64612d737"
+    },
+    {
+     "from": "2024-10-29",
+     "units": 106,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "b0f2e45bc958c18fe36360243d8282c2803778c9ef4a44e2c752a3bedf4a7fc1"
+    },
+    {
+     "from": "2024-11-29",
+     "units": 108,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "24eda19c3ae1b89ec3ccde7af3fb7834241f3f7340b1369a8a4a94be74ecfd40"
+    },
+    {
+     "from": "2024-12-09",
+     "units": 121,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "9fc90997cdac99893becb4861ffc5cc4b163b1e464afca1b37e7f0ee5bada875"
+    },
+    {
+     "from": "2024-12-23",
+     "units": 122,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "735f0a1b9ce0529736dd3c36b0102082fb377c458130d06404f52279e7bf94de"
+    },
+    {
+     "from": "2024-12-24",
+     "units": 133,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "b46d56b1100aad2f5b429e2700adc5552c36216a60caab42cbd4784658dd96b0"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2025",
+   "short": "Законы 2025",
+   "title": "Arkhangelsk Oblast: catalogue of the laws published in 2025 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region29",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 8,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "b9759a44c2f847ce782e96f1995d8e785b20ff7970521e63b73f94d1a05de4c2"
+    },
+    {
+     "from": "2025-03-25",
+     "units": 29,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "abf77e9873b26f49d8c1a6050811fed7025b655aa73d32c5ecf3b3e1b7a54224"
+    },
+    {
+     "from": "2025-05-06",
+     "units": 36,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "c21fed8b614764110f0a0f36a185feccda20c341a6b2f80837fb1c6d37fb9513"
+    },
+    {
+     "from": "2025-05-07",
+     "units": 38,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "6cc4607c3890e793d654359717c09b41851ec26bafd40375cd960c90b6e3382f"
+    },
+    {
+     "from": "2025-05-28",
+     "units": 51,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "ca135fa023e3556875c58370f4398fc40ba55a3463decd0041dddf2ce7ef2b8f"
+    },
+    {
+     "from": "2025-07-01",
+     "units": 66,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "778876189af36d18a3efee6adbc7c42d421b22ce8978601d50b22a249860b7df"
+    },
+    {
+     "from": "2025-09-02",
+     "units": 68,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "57192520813661b59fd90379bdfaaef13dce77bc69fe5651923ca73801c68afc"
+    },
+    {
+     "from": "2025-10-02",
+     "units": 82,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "d1e746c422eff9789d4500d2e9e7e31e5de262e4ef2e55d90c6376dc5ed53af9"
+    },
+    {
+     "from": "2025-10-24",
+     "units": 99,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "adc7cdc56d333b05a772aae9109a9ad96c4a7adbff2e29ed3195760aba75cb40"
+    },
+    {
+     "from": "2025-11-28",
+     "units": 103,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "1f15127d46f0aaa172f4650c237f67685041e3d7fbf7ddbc12660d1c03a05b4b"
+    },
+    {
+     "from": "2025-12-03",
+     "units": 118,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "f4ff5a0992eb938ff86738adaa8281cd98f49576dddedb0c6dae8ca916ff2aeb"
+    },
+    {
+     "from": "2025-12-23",
+     "units": 127,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "c76d138b24d89c6e33f7d28acd6f36b98c2de0941c2d0f06291940d3cecd480e"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2026",
+   "short": "Законы 2026",
+   "title": "Arkhangelsk Oblast: catalogue of the laws published in 2026 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region29",
+   "versions": [
+    {
+     "from": "2026-02-25",
+     "units": 14,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "35d9ca3f763e44e614122e84e3554b0c1573ea75a48dc9dea9e06fa06be231c6"
+    },
+    {
+     "from": "2026-02-27",
+     "units": 17,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "8f6e7d35bb2e242136c59acf7ca0bb9ca294f1acd9c4308e830f87730b21a898"
+    },
+    {
+     "from": "2026-03-30",
+     "units": 31,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "a08e9ddb93e3ad4b4b5c87335a32337dbffce941d99d6ecdd3edbc5dda427fe1"
+    },
+    {
+     "from": "2026-04-28",
+     "units": 39,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "dd2ce25353c02e6764cab5dc0747ce64337af4de96b28f100b7241888c48b27e"
+    },
+    {
+     "from": "2026-05-27",
+     "units": 52,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "c3e454bbcfc47214bc53e8a42eb7a172b27929e1c150bb2b1ffeaaa8af236a77"
+    },
+    {
+     "from": "2026-07-01",
+     "units": 67,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "d4fad91c2052fc375aeb1241ade1fec50af975980d6e9e1921f3d5a9257b82d5"
+    },
+    {
+     "from": "2026-08-31",
+     "units": 75,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "8de8e7f037f3b5e7fc94229b13946760d4790af13617389094da5b9f8feb351a"
+    },
+    {
+     "from": "2026-09-30",
+     "units": 87,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "a67fbb804d144f87b9df4d566cc3bc5d825252b894384871eb917ee6ce7dc961"
+    },
+    {
+     "from": "2026-10-27",
+     "units": 98,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "f8bc0da4681592d7e47279cf275416001c76ffd699b762433daabc867618545f"
+    },
+    {
+     "from": "2026-10-28",
+     "units": 99,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region29",
+     "sha256": "97d781f92b10902786040f1d2a161ffb41d30193e7e2c8319e1d1c31ffb03e02"
+    }
+   ]
+  }
+ ]
+}
