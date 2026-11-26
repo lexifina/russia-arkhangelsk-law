@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T06:57:58Z",
+ "generated": "2026-11-26T06:14:50Z",
  "latest": {
   "pravo-arkhangelsk|russia/arkhangelsk/acts": {
    "attempt": 1,
@@ -21,11 +21,11 @@
     "repo": 1588,
     "source_in_scope": 1588
    },
-   "check_id": "ru-pravo-arkhangelsk-20261125T051506Z",
+   "check_id": "ru-pravo-arkhangelsk-20261126T051734Z",
    "commits": null,
    "corpus": "russia/arkhangelsk/acts",
    "error": null,
-   "finished": "2026-11-25T05:15:45Z",
+   "finished": "2026-11-26T05:18:11Z",
    "flags": [],
    "gap": 0,
    "note": "publication.pravo.gov.ru, block region29: 1588 law-type documents listed (every page read); 1588 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
@@ -45,7 +45,7 @@
    },
    "snapshot": "1588 law-type documents in block region29; newest published 2026-10-28",
    "source": "pravo-arkhangelsk",
-   "started": "2026-11-25T05:15:06Z",
+   "started": "2026-11-26T05:17:34Z",
    "unexplained": 0,
    "update": {
     "parts": []
