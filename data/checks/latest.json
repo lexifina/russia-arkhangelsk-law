@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T06:07:35Z",
+ "generated": "2026-11-28T06:21:55Z",
  "latest": {
   "pravo-arkhangelsk|russia/arkhangelsk/acts": {
    "attempt": 1,
@@ -13,38 +13,25 @@
    },
    "census": {
     "checked": 1596,
-    "current": 1588,
+    "current": 1596,
     "gone": 0,
-    "held": 1588,
-    "newest_in_repo": "2026-10-28",
-    "pending": 8,
-    "repo": 1588,
+    "held": 1596,
+    "newest_in_repo": "2026-11-26",
+    "pending": 0,
+    "repo": 1596,
     "source_in_scope": 1596
    },
-   "check_id": "ru-pravo-arkhangelsk-20261127T051331Z",
-   "commits": {
-    "count": 2,
-    "from": "8e98a527d7bdb5352303db285c410989145658af",
-    "to": "dcb819cdd07075cdeabd98456e0a65aff8622c33"
-   },
+   "check_id": "ru-pravo-arkhangelsk-20261128T052147Z",
+   "commits": null,
    "corpus": "russia/arkhangelsk/acts",
    "error": null,
-   "finished": "2026-11-27T05:14:19Z",
+   "finished": "2026-11-28T05:22:34Z",
    "flags": [],
    "gap": 0,
-   "note": "publication.pravo.gov.ru, block region29: 1596 law-type documents listed (every page read); 1588 held here; 8 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
-   "outcome": "changed",
+   "note": "publication.pravo.gov.ru, block region29: 1596 law-type documents listed (every page read); 1596 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
+   "outcome": "no-change",
    "published": {
-    "added": [
-     "2900202611260003",
-     "2900202611260006",
-     "2900202611260007",
-     "2900202611260008",
-     "2900202611260009",
-     "2900202611260012",
-     "2900202611260013",
-     "2900202611260016"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
@@ -52,35 +39,16 @@
    "runner": "lawwatch russia (65e3dde363)",
    "schema": "lexifina-check/1",
    "seen": {
-    "added": [
-     "2900202611260003",
-     "2900202611260006",
-     "2900202611260007",
-     "2900202611260008",
-     "2900202611260009",
-     "2900202611260012",
-     "2900202611260013",
-     "2900202611260016"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
    "snapshot": "1596 law-type documents in block region29; newest published 2026-11-26",
    "source": "pravo-arkhangelsk",
-   "started": "2026-11-27T05:13:31Z",
+   "started": "2026-11-28T05:21:47Z",
    "unexplained": 0,
    "update": {
-    "append": {
-     "commits": 1,
-     "corrections": null,
-     "extended_acts": [
-      "zakony-2026"
-     ],
-     "new_acts": []
-    },
-    "parts": [
-     "95-watch-20261127-001.json"
-    ]
+    "parts": []
    },
    "verify": {
     "cycle_days": 1,
